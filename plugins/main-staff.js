@@ -14,27 +14,27 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 
 • ArizzVal
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/5215610314499
+🚩 *Número:* Wa.me/5493625494354
 ✨️ *GitHub:* https://github.com/ArizzVal
 
 • elrebelde21
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/573147616444
+🚩 *Número:* Wa.me/5493625494354
 ✨️ *GitHub:* https://github.com/elrebelde21
 
 • AzamiJs
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/5214434703586
+🚩 *Número:* Wa.me/5493625494354
 ✨️ *GitHub:* https://github.com/AzamiJs
 
 • Eder
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/573027866596
+🚩 *Número:* Wa.me/5493625494354
 ✨️ *GitHub:* https://github.com/WOTCHITO
 
 • DarkesJs
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/573218138672
+🚩 *Número:* Wa.me/5493625494354
 ✨️ *GitHub:* https://github.com/WOTCHITA`
 await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
